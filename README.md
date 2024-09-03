@@ -1,6 +1,6 @@
 # ExpenseManager
 
-Expense Manager is an android application which tracks on user's income and expense . 
+Expense Manager is an android application which tracks on user's income and expense ..
 It shows user total income , total expense . Also it shows user its income and expense history.
 
 
